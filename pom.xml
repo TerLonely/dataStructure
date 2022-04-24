@@ -11,6 +11,7 @@
     <modules>
         <module>stack</module>
         <module>sparseArray</module>
+        <module>ArrayQueue</module>
     </modules>
 
 

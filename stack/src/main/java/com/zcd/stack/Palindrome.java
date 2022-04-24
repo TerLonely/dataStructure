@@ -10,7 +10,7 @@ public class Palindrome {
 
     public static void main(String[] args) {
 
-        String str = "";
+        String str = "level";
 
         System.out.println(detection(str));
 
